@@ -1,0 +1,32 @@
+body {
+  background-color: #ADEFD1FF;
+  font-family: "Righteous";
+}
+
+#quote-box {
+  border: solid black 10px;
+  border-radius: 10px;
+  text-align: center;
+  width: 50%;    
+  margin: 10% auto auto auto;
+  padding: 25px;
+  background-color: #00203FFF;
+  color: #ADEFD1FF;
+}
+
+#tweet-quote {
+  color: #ADEFD1FF;
+}
+
+#new-quote {
+  font-family: "Righteous";
+  font-size: 15px;
+  color: #00203FFF;
+  background-color: #ADEFD1FF;
+  padding: 5px;
+}
+
+#footer {
+  display: flex;
+  justify-content: space-between;
+}
